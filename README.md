@@ -1,2 +1,3 @@
-# End-to-End-Data-Transformation-Reporting-for-Sales-Dashboard
- Sales Dashboard: From Raw Data to Insights Built a full data pipeline using SQL + Power BI—cleaned warehouse data, modeled relationships, and delivered an interactive dashboard comparing actual vs. budget sales. Tech used: T-SQL, Power BI, DAX, Star Schema, Agile.
+# End-to-End Sales Dashboard | SQL + Power BI
+Transformed raw sales data from AdventureWorksDW using T-SQL, then built a professional, interactive Power BI dashboard. Delivered dynamic insights comparing actual vs. budget sales—filterable by product, customer, time, and salesperson.
+Tools: SQL Server, Power BI, DAX, Power Query, Excel.
